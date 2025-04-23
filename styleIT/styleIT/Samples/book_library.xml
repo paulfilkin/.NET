@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <book>
+    <title>The Quantum Enigma</title>
+    <author>Dr. Alice Quantum</author>
+    <year>2023</year>
+    <category>Science</category>
+    <rating>4</rating>
+    <description>A deep dive into the mysteries of quantum mechanics, blending science and philosophy.</description>
+  </book>
+  <book>
+    <title>Galactic Odyssey</title>
+    <author>Captain John Star</author>
+    <year>2022</year>
+    <category>Fiction</category>
+    <rating>5</rating>
+    <description>An epic space adventure across the cosmos, filled with thrilling encounters.</description>
+  </book>
+  <book>
+    <title>Code Craft</title>
+    <author>Emma Byte</author>
+    <year>2024</year>
+    <category>Technology</category>
+    <rating>3</rating>
+    <description>A comprehensive guide to mastering software development with modern tools.</description>
+  </book>
+  <book>
+    <title>Ancient Myths</title>
+    <author>Dr. Hera Legend</author>
+    <year>2021</year>
+    <category>History</category>
+    <rating>4</rating>
+    <description>Explores the fascinating myths and legends of ancient civilizations.</description>
+  </book>
+  <book>
+    <title>Future Visions</title>
+    <author>Zara Dreamer</author>
+    <year>2025</year>
+    <category>Fiction</category>
+    <rating>5</rating>
+    <description>A visionary tale of a utopian future shaped by technology and hope.</description>
+  </book>
+</library>

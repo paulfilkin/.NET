@@ -1,0 +1,17 @@
+C:\Users\paul\Documents\GIT\styleIT\styleIT\bin\Debug\net8.0-windows\styleIT.exe
+C:\Users\paul\Documents\GIT\styleIT\styleIT\bin\Debug\net8.0-windows\styleIT.ico
+C:\Users\paul\Documents\GIT\styleIT\styleIT\bin\Debug\net8.0-windows\styleIT.deps.json
+C:\Users\paul\Documents\GIT\styleIT\styleIT\bin\Debug\net8.0-windows\styleIT.runtimeconfig.json
+C:\Users\paul\Documents\GIT\styleIT\styleIT\bin\Debug\net8.0-windows\styleIT.dll
+C:\Users\paul\Documents\GIT\styleIT\styleIT\bin\Debug\net8.0-windows\styleIT.pdb
+C:\Users\paul\Documents\GIT\styleIT\styleIT\obj\Debug\net8.0-windows\XmlTransformerApp.MainForm.resources
+C:\Users\paul\Documents\GIT\styleIT\styleIT\obj\Debug\net8.0-windows\styleIT.csproj.GenerateResource.cache
+C:\Users\paul\Documents\GIT\styleIT\styleIT\obj\Debug\net8.0-windows\styleIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paul\Documents\GIT\styleIT\styleIT\obj\Debug\net8.0-windows\styleIT.AssemblyInfoInputs.cache
+C:\Users\paul\Documents\GIT\styleIT\styleIT\obj\Debug\net8.0-windows\styleIT.AssemblyInfo.cs
+C:\Users\paul\Documents\GIT\styleIT\styleIT\obj\Debug\net8.0-windows\styleIT.csproj.CoreCompileInputs.cache
+C:\Users\paul\Documents\GIT\styleIT\styleIT\obj\Debug\net8.0-windows\styleIT.dll
+C:\Users\paul\Documents\GIT\styleIT\styleIT\obj\Debug\net8.0-windows\refint\styleIT.dll
+C:\Users\paul\Documents\GIT\styleIT\styleIT\obj\Debug\net8.0-windows\styleIT.pdb
+C:\Users\paul\Documents\GIT\styleIT\styleIT\obj\Debug\net8.0-windows\styleIT.genruntimeconfig.cache
+C:\Users\paul\Documents\GIT\styleIT\styleIT\obj\Debug\net8.0-windows\ref\styleIT.dll

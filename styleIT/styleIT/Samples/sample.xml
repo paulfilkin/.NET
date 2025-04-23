@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  <book>
+    <title>Learning XML</title>
+    <author>John Doe</author>
+    <year>2021</year>
+  </book>
+  <book>
+    <title>Mastering XSLT</title>
+    <author>Jane Smith</author>
+    <year>2022</year>
+  </book>
+  <book>
+    <title>Peace</title>
+    <author>Gabriela</author>
+    <year>2025</year>
+  </book>
+</catalog>
