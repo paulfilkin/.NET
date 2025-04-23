@@ -33,7 +33,7 @@
 3. **Example Files**:
    - You can test the application with sample files:
      - <a href="https://github.com/paulfilkin/.NET/blob/main/styleIT/styleIT/Samples/book_library.xml" target="_blank">library.xml</a> : An XML file containing book data.
-     - <a href="https://github.com/paulfilkin/.NET/main/styleIT/styleIT/Samples/book_catalog.xsl" target="_blank">book_catalog.xsl</a>: An XSL stylesheet to transform the XML into an HTML catalog.
+     - <a href="https://github.com/paulfilkin/.NET/blob/main/styleIT/styleIT/Samples/book_catalog.xsl" target="_blank">book_catalog.xsl</a>: An XSL stylesheet to transform the XML into an HTML catalog.
    - Place these files in the project directory, then drag and drop them into the application to see the transformation.
 
 ## Contributing
